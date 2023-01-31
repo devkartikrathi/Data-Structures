@@ -13,5 +13,3 @@ print(insertion_sort([10, 5, 7, 2]))
 
 def rec_insertion_sort(l):
     pass
-
-dean.soet@krmangalam.edu.in
